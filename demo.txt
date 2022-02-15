@@ -1,2 +1,3 @@
 Welcome to the Day 2 of DevOps Workshop.
 We are looking at GIt right now
+We are making this change from training branch
